@@ -1,5 +1,11 @@
 ## Welcome to the GolfPass Tutorials website
 
+{% for menu-item in site.data.menus.sidebar %}
+<ul>
+   <li>{{ menu-item.title}}</li>
+</ul>
+{% endfor %}
+
 This site is created and maintained by Alex DeVincenzo, a GolfPass developer, in order to showcase tutorials and organize tips, tricks and advice for our GolfPass environment and GolfID. [See my LinkedIn here](https://www.linkedin.com/in/alex-devincenzo-434099150/)
 
 ### Markdown
