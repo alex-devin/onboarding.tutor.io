@@ -1,0 +1,9 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: GolfPass
+  url: /GolfPass/
+
+- title: Contact Us
+  url: /contact-us/
