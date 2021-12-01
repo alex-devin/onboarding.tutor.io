@@ -1,28 +1,25 @@
-## Welcome to the GolfPass Tutorials website
+## Welcome to the About Page
 
-This site is created and maintained by Alex DeVincenzo, a GolfPass developer, in order to showcase tutorials and organize tips, tricks and advice for our GolfPass environment and GolfID. [See my LinkedIn here](https://www.linkedin.com/in/alex-devincenzo-434099150/)
+This is a different page guys
 
-### Markdown
+### Now let's copy paste some lorum ipsum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```
-Syntax highlighted code block
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui faucibus in ornare quam viverra orci sagittis eu. Volutpat lacus laoreet non curabitur gravida. Quis eleifend quam adipiscing vitae proin. Morbi tristique senectus et netus et malesuada fames ac turpis.```markdown
+````
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Lorum
+- Ipsum
 
-1. Numbered
-2. List
+1. Dolor
+2. Sit
 
-**Bold** and _Italic_ and `Code` text
+**amet** consectetur _adipiscing_ elit ` sed do eiusmod tempor` incididunt
 
 [Link](url) and ![Image](src)
-```
+````
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -38,8 +35,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 #### We can hide anything, even code!
 
-    ```ruby
-      puts "Hello World"
+    ```
+    "Hello World"
     ```
 
 </p>
