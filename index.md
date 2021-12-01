@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the GolfPass Tutorials website
 
-You can use the [editor on GitHub](https://github.com/alex-devin/onboarding.tutor.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is created and maintained by Alex DeVincenzo, a GolfPass developer, in order to showcase tutorials and organize tips, tricks and advice for our GolfPass environment and GolfID. [See my LinkedIn here](https://www.linkedin.com/in/alex-devincenzo-434099150/)
 
 ### Markdown
 
